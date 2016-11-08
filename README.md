@@ -1,3 +1,3 @@
-# crackthecodinginterview
+# algorithm
 
-Implemented the basic algorithms for learning purpose
+Implement the basic algorithms for learning purpose
