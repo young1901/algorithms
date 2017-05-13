@@ -1,3 +1,3 @@
 # algorithm
 
-Implement the basic algorithms for learning purpose
+Implement the basic algorithms
